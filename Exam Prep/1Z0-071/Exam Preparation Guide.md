@@ -19,10 +19,10 @@ Welcome to your enhanced guide for excelling in the Oracle Database SQL Certific
 - **[Oracle SQL Tutorial](https://www.oracletutorial.com/)**: A specialized blog with practical tips and examples, enhanced by discussions on Stack Overflow and Oracle Community.
 
 ### Technical Setup
-- **[Installing Oracle Database 19c on Windows 10](https://www.oracle.com/database/technologies/install-19c-win.html)**: A guide for setting up Oracle Database on your machine.
+- **[Installing Oracle Database 19c on Windows 10](https://www.oracle.com/database/technologies/)**: A guide for setting up Oracle Database on your machine.
 
 ### Support and Problem-Solving
-- **[Oracle Support](https://support.oracle.com/)**: A vast repository of tech notes and articles for troubleshooting (Oracle support account may be required).
+- **[Oracle Support](https://support.oracle.com/knowledge/Oracle%20Database%20Products/742060_1.html)**: A vast repository of tech notes and articles for troubleshooting (Oracle support account may be required).
 
 ## Study Plan Structure
 
