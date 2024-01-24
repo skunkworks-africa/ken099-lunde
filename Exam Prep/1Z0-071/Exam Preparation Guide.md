@@ -11,9 +11,9 @@ Welcome to your enhanced guide for excelling in the Oracle Database SQL Certific
 - **[Oracle Database 12c SQL by Jason Price](https://www.amazon.com/Oracle-Database-12c-SQL-Jason/dp/0071799354)**: A crucial book for mastering SQL in Oracle Database, available on Amazon.
 
 ### Online Courses and Tutorials
-- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Prep Course on Udemy](https://www.udemy.com/course/oracle-database-sql-certified-associate-1z0-071/)**: Comprehensive online course for exam readiness, with more options on Coursera and LinkedIn Learning.
-- **[Oracle Learning Library](https://education.oracle.com/oracle-learning-explorer)**: Oracle's official collection of free tutorials and guides.
-- **[Oracle SQL Tutorial for Beginners on YouTube](https://www.youtube.com/watch?v=JwG8cZVj83g)**: A beginner-friendly video, also offering advanced content.
+- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Prep Course on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=oracle-database-sql-certified-associate-1z0-071)**: Comprehensive online course for exam readiness, with more options on Coursera and LinkedIn Learning.
+- **[Oracle Learning Library](https://education.oracle.com/learning-explorer)**: Oracle's official collection of free tutorials and guides.
+- **[Oracle SQL Tutorial for Beginners on YouTube](https://www.youtube.com/@Oracle/search?query=sql)**: A beginner-friendly video, also offering advanced content.
 
 ### Blogs and Forums
 - **[Oracle SQL Tutorial](https://www.oracletutorial.com/)**: A specialized blog with practical tips and examples, enhanced by discussions on Stack Overflow and Oracle Community.
