@@ -1,6 +1,6 @@
-# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟
+![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟
 
-![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
+
 
 Welcome to the **_enhanced and interactive_** guide for acing the Oracle Database SQL Certification (1Z0-071). Embark on this exciting quest filled with rich resources and tools guaranteed to power-up your exam prep game!
 
@@ -39,7 +39,8 @@ Welcome to the **_enhanced and interactive_** guide for acing the Oracle Databas
 ### :octocat: GitHub Exam Prep Repo
 - **[GitHub Repo: Oracle_SQL_Developer_Guide](https://github.com/skunkworksza/ken099-lunde/Exam-Prep/1Z0-071-Oracle_SQL_Developer_Guide)**: A repository dedicated to covering topics for the Oracle 1Z0-071 SQL Exam.
 
-![Oracle](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a26c2722-a569-4671-a311-188e91b3d16c)
+
+![Oracle smaller](https://github.com/skunkworksza/ken099-lunde/assets/126121348/c800041b-aac9-43cf-92ac-1976a38e2083)
 
 ## 📅 Study Plan Structure
 
