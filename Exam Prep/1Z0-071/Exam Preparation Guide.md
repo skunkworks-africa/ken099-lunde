@@ -22,7 +22,7 @@ Welcome to the **_enhanced and interactive_** guide for acing the Oracle Databas
 ### 🆘 Support and Problem-Solving
 - **[Oracle Support Portal](https://support.oracle.com/knowledge/Oracle%20Database%20Products/742060_1.html)**: Summon assistance from the Oracle sages for any conundrum you face (Oracle support account required). 🧙
 
-### `:octocat:` GitHub Exam prep repo
+### :octocat: GitHub Exam prep repo
 - **[GitHub Repo Oracle_SQL_Developer_Guide by godmnathan](https://github.com/skunkworksza/ken099-lunde-Exam-Prep-1Z0-071-Oracle_SQL_Developer_Guide)
 
 ## 📅 Study Plan Structure
