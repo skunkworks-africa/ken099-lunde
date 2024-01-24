@@ -1,5 +1,4 @@
-![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
-# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟
+# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟 ![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
 
 Welcome to the **_enhanced and interactive_** guide for acing the Oracle Database SQL Certification (1Z0-071). Embark on this exciting quest filled with rich resources and tools guaranteed to power-up your exam prep game!
 
@@ -8,8 +7,8 @@ Welcome to the **_enhanced and interactive_** guide for acing the Oracle Databas
 ### 🐙 Oracle Certification Paths
 - **[Oracle Database SQL Certified Associate](https://education.oracle.com/products/trackp_457)**: Oracle Database SQL Certified Associate Certification Overview
 
-
-### 👨‍🎓 MyLearn | Oracle University ![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a4259d3e-fe20-4307-b85d-25c951ed11ba)
+![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a4259d3e-fe20-4307-b85d-25c951ed11ba)
+### 👨‍🎓 MyLearn | Oracle University 
 - **[Oracle Database Training and Certification](https://mylearn.oracle.com/ou/story/38560)**: Explore the new features and enhancements introduced in Oracle Database from release 12c R2 to 21c and stay updated with the new features.
 - **[mylearn.oracle.com](https://mylearn.oracle.com/ou/learning-path/earn-the-oracle-database-sql-certified-associate-credential/80636/)**: Earn the Oracle Database SQL Associate Credential
 
