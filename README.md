@@ -1,7 +1,3 @@
-Sure, I'll create an eye-catching README.md for your GitHub profile, Ken099-lunde. 😊
-
----
-
 # Hi there, I'm Ken099-lunde! 👋
 
 Welcome to my GitHub space where my passion for database technology and cybersecurity comes to life!
