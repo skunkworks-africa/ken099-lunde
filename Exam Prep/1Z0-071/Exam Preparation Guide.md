@@ -3,6 +3,16 @@
 Welcome to the **_enhanced and interactive_** guide for acing the Oracle Database SQL Certification (1Z0-071). Embark on this exciting quest filled with rich resources and tools guaranteed to power-up your exam prep game!
 
 ## 🛠️ Key Resources for Exam Success 🛠️
+![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
+
+### 🐙 Oracle Certification Paths
+- **[Oracle Database SQL Certified Associate](https://education.oracle.com/products/trackp_457)**: Oracle Database SQL Certified Associate Certification Overview
+
+![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a4259d3e-fe20-4307-b85d-25c951ed11ba)
+
+### 👨‍🎓 MyLearn | Oracle University
+- **[Oracle Database Training and Certification](https://mylearn.oracle.com/ou/story/38560)**: Explore the new features and enhancements introduced in Oracle Database from release 12c R2 to 21c and stay updated with the new features.
+- **[mylearn.oracle.com](https://mylearn.oracle.com/ou/learning-path/earn-the-oracle-database-sql-certified-associate-credential/80636/)**: Earn the Oracle Database SQL Associate Credential
 
 ### 📚 Official Oracle Documentation and Guides
 - **[Oracle Database Documentation](https://docs.oracle.com/en/database/)**: Dive into the treasure trove of SQL knowledge with official guides and manuals. 📖
@@ -24,6 +34,9 @@ Welcome to the **_enhanced and interactive_** guide for acing the Oracle Databas
 
 ### :octocat: GitHub Exam prep repo
 - **[GitHub Repo Oracle_SQL_Developer_Guide by godmnathan](https://github.com/skunkworksza/ken099-lunde-Exam-Prep-1Z0-071-Oracle_SQL_Developer_Guide)**: This repository covers all the topics for the Oracle 1Z0-071 SQL Exam.
+
+![Oracle](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a26c2722-a569-4671-a311-188e91b3d16c)
+
 
 ## 📅 Study Plan Structure
 
