@@ -1,60 +1,63 @@
-# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟 ![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
+# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟
+
+![Oracle_Professional_Badge_final](https://github.com/skunkworksza/ken099-lunde/assets/126121348/71fa09b0-48ec-4cd2-ac22-f40240de84a8)
 
 Welcome to the **_enhanced and interactive_** guide for acing the Oracle Database SQL Certification (1Z0-071). Embark on this exciting quest filled with rich resources and tools guaranteed to power-up your exam prep game!
 
 ## 🛠️ Key Resources for Exam Success 🛠️
 
 ### 🐙 Oracle Certification Paths
-- **[Oracle Database SQL Certified Associate](https://education.oracle.com/products/trackp_457)**: Oracle Database SQL Certified Associate Certification Overview
+- **[Oracle Database SQL Certified Associate](https://education.oracle.com/products/trackp_457)**: Discover the path to becoming an Oracle Database SQL Certified Associate.
 
 ![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a4259d3e-fe20-4307-b85d-25c951ed11ba)
+
 ### 👨‍🎓 MyLearn | Oracle University 
-- **[Oracle Database Training and Certification](https://mylearn.oracle.com/ou/story/38560)**: Explore the new features and enhancements introduced in Oracle Database from release 12c R2 to 21c and stay updated with the new features.
-- **[mylearn.oracle.com](https://mylearn.oracle.com/ou/learning-path/earn-the-oracle-database-sql-certified-associate-credential/80636/)**: Earn the Oracle Database SQL Associate Credential
+- **[Oracle Database Training and Certification](https://mylearn.oracle.com/story/38560)**: Dive into the latest Oracle Database features from 12c R2 to 21c.`
+
+
+![Oracle-Explorer-Badge](https://github.com/skunkworksza/ken099-lunde/assets/126121348/e22a9d71-f90e-4a0c-a5ee-22a2dfbc44a3)
+- **[Earn the Oracle Database SQL Associate Credential](https://mylearn.oracle.com/ou/learning-path/earn-the-oracle-database-sql-certified-associate-credential/80636/)**: Follow this learning path to certification.
 
 ### 📚 Official Oracle Documentation and Guides
-- **[Oracle Database Documentation](https://docs.oracle.com/en/database/)**: Dive into the treasure trove of SQL knowledge with official guides and manuals. 📖
+- **[Oracle Database Documentation](https://docs.oracle.com/en/database/)**: Your go-to for official Oracle SQL guides and manuals.
 
 ### 📖 Essential Reading
-- **[Oracle Database 12c SQL by Jason Price](https://www.amazon.com/Oracle-Database-12c-SQL-Jason/dp/0071799354)**: Arm yourself with this book and conquer the SQL realm. Available on Amazon.
+- **[Oracle Database 12c SQL](https://www.amazon.com/Oracle-Database-12c-SQL-Jason/dp/0071799354)**: Arm yourself with knowledge from Jason Price's book, available on Amazon.
 
 ### 💻 Online Courses and Tutorials
-- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Prep Course on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=oracle-database-sql-certified-associate-1z0-071)**: Join the legion of learners in this comprehensive online course and march toward certification victory! 🏅
+- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Prep Course](https://www.udemy.com/courses/search/?src=ukw&q=oracle-database-sql-certified-associate-1z0-071)**: A comprehensive Udemy course to bolster your exam preparation.
 
 ### 🧠 Blogs and Forums
-- **[Oracle SQL Tutorial](https://www.oracletutorial.com/)**: Navigate the byways of Oracle SQL with this map of practical tips and examples. 💡
+- **[Oracle SQL Tutorial](https://www.oracletutorial.com/)**: Enhance your skills with practical tips and examples from this dedicated Oracle SQL blog.
 
 ### 🛠️ Technical Setup
-- **[Installing Oracle Database 19c on Windows 10](https://www.oracle.com/database/technologies/)**: Set up your very own Oracle Database fortress with this guide. 🏰
+- **[Installing Oracle Database 19c on Windows 10](https://www.oracle.com/database/technologies/)**: A guide to establishing your personal Oracle Database environment.
 
 ### 🆘 Support and Problem-Solving
-- **[Oracle Support Portal](https://support.oracle.com/knowledge/Oracle%20Database%20Products/742060_1.html)**: Summon assistance from the Oracle sages for any conundrum you face (Oracle support account required). 🧙
+- **[Oracle Support Portal](https://support.oracle.com/knowledge/Oracle%20Database%20Products/742060_1.html)**: Reach out for support on any Oracle-related queries (requires Oracle support account).
 
-### :octocat: GitHub Exam prep repo
-- **[GitHub Repo Oracle_SQL_Developer_Guide by godmnathan](https://github.com/skunkworksza/ken099-lunde-Exam-Prep-1Z0-071-Oracle_SQL_Developer_Guide)**: This repository covers all the topics for the Oracle 1Z0-071 SQL Exam.
+### :octocat: GitHub Exam Prep Repo
+- **[GitHub Repo: Oracle_SQL_Developer_Guide](https://github.com/skunkworksza/ken099-lunde/Exam-Prep/1Z0-071-Oracle_SQL_Developer_Guide)**: A repository dedicated to covering topics for the Oracle 1Z0-071 SQL Exam.
 
 ![Oracle](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a26c2722-a569-4671-a311-188e91b3d16c)
 
-
 ## 📅 Study Plan Structure
 
-1. **Begin Your Quest with Oracle SQL Basics:** Start with the official scrolls (documentation) and the sage's wisdom (Jason Price's book).
-2. **Structured Online Learning Campaign:** Progress through your journey with the guided Udemy course, supplemented with practical challenges from the Oracle Learning Library.
-3. **Practice Battles and Self-Evaluation:** Test your skills in mock duels (practice exams) and learn from each skirmish.
-4. **Hands-On Forging:** Apply your knowledge by crafting real SQL queries in your newly installed Oracle Database.
-5. **Community Roundtable Discussions:** Engage in the grand council of online forums for knowledge exchange and camaraderie.
+1. **Oracle SQL Basics**: Start with official documentation and Jason Price's book.
+2. **Structured Online Learning**: Progress with the guided Udemy course.
+3. **Practice**: Test your skills with practice exams.
+4. **Hands-On Application**: Craft real SQL queries in your Oracle Database.
+5. **Community Engagement**: Participate in forums for knowledge sharing.
 
-## 🛡️ Final Tips Before the Exam
+## 🛡️ Final Exam Tips
 
-- Review all the artifacts (resources) and ensure you have ample hands-on experience.
-- Rest well before the grand tournament (exam) and approach the challenge with courage and confidence.
+- Review all resources and ensure hands-on experience.
+- Get plenty of rest before the exam.
 
-Embark on this grand adventure with a heart full of determination and you shall emerge victorious as an Oracle Database SQL Certified Associate.
+### 🧭 Next Steps
 
-### 🧭 Guidance for Next Steps:
+1. **Schedule Your Study**: Allocate dedicated study times for various resources.
+2. **Interactive Learning**: Take notes and explain concepts to peers.
+3. **Mock Exams**: Regularly attend practice exams to refine your strategies.
 
-1. **Chart Your Course:** Allocate dedicated study times, evenly distributing them among the various resources. Plan this out in a fun, visual calendar. 🗓️
-2. **Engage in Epic Learning Techniques:** Make your study time legendary with interactive note-taking, epic storytelling of concepts to peers, and participating in knowledge quests (study groups).
-3. **Consistent Practice Tournaments:** Regularly attend the arena of mock exams to track your progress and fine-tune your combat skills (exam strategies).
-
-Best of luck, brave learner! Should you require a companion or further sage advice on this journey, send forth a message. 💌
+Good luck, brave learner! If you need a guide on this journey, send a message. 💌
