@@ -11,7 +11,7 @@ Welcome to your tailored guide for acing the Oracle Database SQL Certification (
 - **[Oracle Database 12c SQL by Jason Price](https://www.amazon.com/Oracle-Database-12c-SQL-Jason/dp/0071799354):** A pivotal book available on Amazon, offering a structured approach to mastering SQL within the Oracle Database context.
 
 ### Online Courses and Tutorials
-- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Preparation Course on Udemy](https://www.udemy.com/course/oracle-database-sql-certified-associate-1z0-071/):** An online course designed to build your exam readiness, alongside additional resources on Coursera and LinkedIn Learning.
+- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Preparation Course on Udemy](https://www.udemy.com/course/oracle-database-12c-sql-certified-associate-1z0-071/):** An online course designed to build your exam readiness, alongside additional resources on Coursera and LinkedIn Learning.
 - **[Oracle Learning Library](https://apexapps.oracle.com/pls/apex/f?p=44785:1:0):** Oracle's own collection of free tutorials and guides.
 - **[Oracle SQL Tutorial for Beginners](https://www.youtube.com/watch?v=JwG8cZVj83g):** A beginner-friendly YouTube video that lays the groundwork for Oracle SQL, with more advanced content also available on the platform.
 
