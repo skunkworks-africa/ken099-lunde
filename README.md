@@ -12,8 +12,6 @@ This repository, managed by Ken099-lunde under Skunkworks, serves as a hub for m
 
 - **ISC2 Study Materials:** This section includes my notes, summaries, and resources as I study for ISC2 certifications. It's a treasure trove of information for anyone interested in the world of cybersecurity.
 
-- **Learning Logs:** Follow my learning journey through regular updates and insights into the challenges and breakthroughs I encounter along the way.
-
 - **Collaborations:** I'm always open to collaborate! This repository is not just a personal space but a platform for shared growth and knowledge exchange.
 
 ## Stay Connected
