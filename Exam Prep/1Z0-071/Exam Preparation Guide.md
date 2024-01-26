@@ -18,9 +18,9 @@ Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-0
 1. **Oracle Database Documentation**
    - Official SQL guides and manuals: [Oracle Database Documentation](https://docs.oracle.com/en/database/)
 
-### [![aws71x50](https://github.com/skunkworksza/ken099-lunde/assets/126121348/19003335-9fa4-491e-9f80-ef6c984cb3a3)](https://www.amazon.com/) 
+### [![aws71x50](https://github.com/skunkworksza/ken099-lunde/assets/126121348/19003335-9fa4-491e-9f80-ef6c984cb3a3)](https://a.co/d/iS7egJq) 
 1. **"Oracle Database 12c SQL" by Jason Price**
-   - Available on [Amazon](https://www.amazon.com/)
+   - Available on [Amazon](https://a.co/d/iS7egJq)
 
 ### Online Courses and Tutorials
 1. **1Z0-071 Exam Prep Course on Udemy**
