@@ -4,7 +4,7 @@ Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-0
 
 ## 📚 **Key Resources for Exam Success**
 
-### Oracle Certification Paths
+### [![Oracle_Professional_Badge_final_50x50](https://github.com/skunkworksza/ken099-lunde/assets/126121348/38da7aa1-7ba9-4baf-8236-04133a293697)](https://education.oracle.com/oracle-database-sql-certified-associate/trackp_457)
 1. **Oracle Database SQL Certified Associate**
    - Path to becoming an Oracle Database SQL Certified Associate
    - Resources: [Oracle University](https://education.oracle.com/)
