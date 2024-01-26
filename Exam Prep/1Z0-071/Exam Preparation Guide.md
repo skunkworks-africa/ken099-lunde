@@ -1,6 +1,5 @@
 # ![Oracle_Professional_Badge_final_25x25](https://github.com/skunkworksza/ken099-lunde/assets/126121348/fdb530d1-7a6e-4464-9dfb-4bb1d2715ef8) Oracle Database SQL Certification (1Z0-071) Exam Preparation Guide
 
-
 Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-071) with this comprehensive and interactive guide. With a blend of key resources, structured learning, and hands-on practice, you're on the path to success!
 
 ## 📚 **Key Resources for Exam Success**
@@ -10,7 +9,7 @@ Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-0
    - Path to becoming an Oracle Database SQL Certified Associate
    - Resources: [Oracle University](https://education.oracle.com/)
 
-### MyLearn | Oracle University
+### ![oracle university107x25](https://github.com/skunkworksza/ken099-lunde/assets/126121348/5a409958-3b10-4b3e-8e6b-d78ff9d375cb) MyLearn | Oracle University
 1. **Oracle Database Training and Certification**
    - Covers Oracle Database from 12c R2 to 21c
    - Learning Path for SQL Associate Credential: [MyLearn Oracle University](https://education.oracle.com/product/pexam_1Z0-071)
