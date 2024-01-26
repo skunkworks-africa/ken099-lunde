@@ -1,4 +1,5 @@
 # Oracle Database SQL Certification (1Z0-071) Exam Preparation Guide
+![Oracle_Professional_Badge_final_75x75](https://github.com/skunkworksza/ken099-lunde/assets/126121348/c97d430e-190f-4357-a549-b247abcbe285)
 
 Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-071) with this comprehensive and interactive guide. With a blend of key resources, structured learning, and hands-on practice, you're on the path to success!
 
