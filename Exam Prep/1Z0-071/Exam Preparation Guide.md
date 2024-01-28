@@ -42,22 +42,44 @@ Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-0
 1. **Oracle_SQL_Developer_Guide**
    - Topics for the Oracle 1Z0-071 SQL Exam: [GitHub Repo](https://github.com/)
 
-## 📅 **Study Plan Structure**
+## **Title: Mastering IT Certifications: An Exam Prep Guide Using Bloom's Taxonomy**
 
-### Oracle SQL Basics
-1. Start with official documentation and Jason Price's book.
+### **Introduction:**
+For IT professionals, certification exams are milestones marking expertise and dedication. Employing Bloom's Taxonomy, traditionally a pedagogical framework, can offer a structured approach to mastering complex technical materials and concepts. Let's explore how this methodology can be adapted for IT certification exam preparation.
 
-### Structured Online Learning
-1. Progress with the guided Udemy course.
+### **Remembering:**
+1. **Basic Recall and Recognition:**
+  - Begin by compiling notes and creating flashcards for essential technical terms, commands, and concepts. Revisit these regularly to build a strong memory foundation.
 
-### Practice
-1. Test skills with practice exams.
+### **Understanding:**
+2. **Comprehension and Interpretation:**
+  - Engage with study materials to explain concepts in your own words. Utilize diagrams to understand the relationships between different IT components and systems.
 
-### Hands-On Application
-1. Craft real SQL queries in your Oracle Database.
+### **Applying:**
+3. **Practical Application of Skills:**
+  - Set up a lab environment to implement the concepts you've learned. Practice configuring systems and troubleshooting issues as they might appear on the exam.
 
-### Community Engagement
-1. Participate in forums for knowledge sharing.
+### **Analyzing:**
+4. **Deconstruction and Analysis:**
+  - Examine case studies and dissect complex scenarios to understand how different IT elements interact. Practice breaking down problems into their constituent parts to find solutions.
+
+### **Evaluating:**
+5. **Judgment and Justification:**
+  - Critically review practice exam answers, especially those you got wrong. Understand the reasoning behind each solution and why one answer is more appropriate than another.
+
+### **Creating:**
+6. **Innovation and Design:**
+  - Challenge yourself to design a system or a process that integrates multiple IT concepts. This synthesis of knowledge showcases your readiness to apply what you've learned in real-world scenarios.
+
+### **Incorporating IT Training Programs:**
+7. **Skunkworks IT Training Alignment:**
+  - Explain how Skunkworks' IT training aligns with this methodology, using practical labs, scenario-based learning, and innovative problem-solving exercises to enhance learning outcomes.
+
+### **Conclusion:**
+8. **Career Advancement Through Certification:**
+  - Applying Bloom's Taxonomy to your exam preparation strategy can deepen your understanding and retention of complex IT subjects, leading to higher success rates on certification exams and advancing your IT career.
+
+---
 
 ## 🛡️ **Final Exam Tips**
 - Review all resources thoroughly.
@@ -85,3 +107,17 @@ Good luck, brave learner! 🌠 For any further assistance, feel free to reach ou
 1. Detailed Study Schedule
 2. Resource Analysis
 3. Practice Exam Strategies
+
+
+## **URL References List:**
+
+1. **Oracle SQL Documentation**: For comprehensive information on Oracle SQL syntax, functions, and more, start with the official documentation. `[Oracle SQL Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/index.html)`.
+
+2. **Oracle Learning Explorer**: Engage with Oracle Learning Explorer for interactive courses, quizzes, and labs to enhance your Oracle SQL skills. `[Oracle Learning Explorer](https://learn.oracle.com/ols/learning-path/become-an-oracle-database-sql-certified-associate/40805/44178)`.
+
+3. **Udemy Oracle SQL Course**: Advance your understanding with a structured Udemy course designed specifically for Oracle SQL learners. `[Udemy Oracle SQL Course](https://www.udemy.com/course/oracle-sql)`.
+
+4. **Oracle Database Explorer**: Get hands-on experience with Oracle SQL by practicing with the Oracle Database Explorer. `[Oracle Database Explorer](https://apex.oracle.com/en/learn/tutorials)`.
+
+5. **Oracle Technology Network**: Connect with experts and peers in the Oracle community at the Oracle Technology Network. `[Oracle Community](https://community.oracle.com)`.
+
