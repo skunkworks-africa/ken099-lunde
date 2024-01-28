@@ -48,6 +48,9 @@ Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-0
 
 ## **Title: Mastering IT Certifications: An Exam Prep Guide Using Bloom's Taxonomy**
 
+![DALL·E 2024-01-29 01 17 06 - Illustration for Oracle Database SQL Certification (1Z0-071) Exam Preparation Guide  The scene should depict a dynamic learning environment filled wit](https://github.com/skunkworksza/ken099-lunde/assets/126121348/626b0077-7264-4a32-a94d-e3776466fdc1)
+
+
 ### **Introduction:**
 For IT professionals, certification exams are milestones marking expertise and dedication. Employing Bloom's Taxonomy, traditionally a pedagogical framework, can offer a structured approach to mastering complex technical materials and concepts. Let's explore how this methodology can be adapted for IT certification exam preparation.
 
