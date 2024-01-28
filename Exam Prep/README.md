@@ -20,6 +20,8 @@ Welcome to the `Exam Prep` section of your GitHub repository! This area is dedic
 
 This space is not just for you to track my progress but also for you to benefit from the resources and strategies I've compiled. Whether you're a fellow learner or a curious explorer in the realms of Oracle SQL and cybersecurity, you're in the right place!
 
+!['Exam Preparation Guide for Youth' using Bloom's Taxonomy Framework_trans smaller](https://github.com/skunkworksza/ken099-lunde/assets/126121348/d8c7637d-162f-4400-adaa-df899d805506)
+
 ### Contributions and Collaborations
 
 - 🤝 **Collaborate:** If you have resources, insights, or tips to share, please feel free to contribute to this repository.
