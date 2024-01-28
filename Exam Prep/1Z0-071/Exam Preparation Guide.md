@@ -101,7 +101,7 @@ For IT professionals, certification exams are milestones marking expertise and d
 5. **Healthy Study Habits:** Maintain a balanced approach with adequate breaks and self-care.
 6. **Engage with the Community:** Participate in forums and study groups for collaborative learning and support.
 
-|> Good luck, brave learner! 🌠 For any further assistance, feel free to reach out. 💌
+`Good luck, brave learner! 🌠 For any further assistance, feel free to reach out. 💌`
 
 ### 📌 Next Steps for Extended Guidance
 1. Detailed Study Schedule
