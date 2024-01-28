@@ -101,7 +101,9 @@ For IT professionals, certification exams are milestones marking expertise and d
 5. **Healthy Study Habits:** Maintain a balanced approach with adequate breaks and self-care.
 6. **Engage with the Community:** Participate in forums and study groups for collaborative learning and support.
 
-`Good luck, brave learner! 🌠 For any further assistance, feel free to reach out. 💌`
+```
+Good luck, brave learner! 🌠 For any further assistance, feel free to reach out. 💌
+```
 
 ### 📌 Next Steps for Extended Guidance
 1. Detailed Study Schedule
@@ -113,7 +115,7 @@ For IT professionals, certification exams are milestones marking expertise and d
 
 1. **Oracle SQL Documentation**: For comprehensive information on Oracle SQL syntax, functions, and more, start with the official documentation. [Oracle SQL Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/index.html).
 
-2. **Oracle Learning Explorer**: Engage with Oracle Learning Explorer for interactive courses, quizzes, and labs to enhance your Oracle SQL skills. `[Oracle Learning Explorer](https://learn.oracle.com/ols/learning-path/become-an-oracle-database-sql-certified-associate/40805/44178)`.
+2. **Oracle Learning Explorer**: Engage with Oracle Learning Explorer for interactive courses, quizzes, and labs to enhance your Oracle SQL skills. [Oracle Learning Explorer](https://learn.oracle.com/ols/learning-path/become-an-oracle-database-sql-certified-associate/40805/44178).
 
 3. **Udemy Oracle SQL Course**: Advance your understanding with a structured Udemy course designed specifically for Oracle SQL learners. [Udemy Oracle SQL Course](https://www.udemy.com/course/oracle-sql).
 
