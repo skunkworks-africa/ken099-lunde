@@ -134,3 +134,4 @@ Good luck, brave learner! 🌠 For any further assistance, feel free to reach ou
 
 5. **Oracle Technology Network**: Connect with experts and peers in the Oracle community at the Oracle Technology Network. [Oracle Community](https://community.oracle.com).
 
+6. **Oracle Base Database Services Professional Workshop** [mylearn.oracle.com](https://mylearn.oracle.com/ou/course/oracle-base-database-services-professional-workshop/122179/168384)
