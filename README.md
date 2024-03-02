@@ -8,7 +8,7 @@ This repository, managed by Ken099-lunde under Skunkworks, serves as a hub for m
 
 ### What's Inside:
 
-- **Oracle Database SQL Projects:** Here, you'll find my exercises, examples, and projects related to Oracle Database SQL. From basic queries to complex database designs, it's a showcase of my journey in mastering SQL.
+- **Oracle Database SQL Projects:** Here, you'll find my exercises, examples, and projects related to Oracle Database SQL. From basic queries to complex database designs, it's a showcase of my journey in mastering SQL..
 
 - **ISC2 Study Materials:** This section includes my notes, summaries, and resources as I study for ISC2 certifications. It's a treasure trove of information for anyone interested in the world of cybersecurity.
 
