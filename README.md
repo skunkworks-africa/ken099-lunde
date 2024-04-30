@@ -16,7 +16,8 @@ This repository, managed by Ken099-lunde under Skunkworks, serves as a hub for m
 
 ## Stay Connected
 
-📧 **Reach out to me via email:** [ken@skunkworks.africa](mailto:ken@skunkworks.africa)
+📧 **Reach out to me via email:** kenny@skunkworks.africa
+
 
 Join me in this exciting journey where data meets security, and where every line of code leads to new discoveries. Let's explore, learn, and grow together!
 
