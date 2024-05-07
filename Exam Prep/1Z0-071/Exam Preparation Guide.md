@@ -1,63 +1,137 @@
-# 🌟 Oracle Database SQL Certification (1Z0-071) Exam Prep Guide 🌟
-![Oracle_Professional_Badge_final_150x150](https://github.com/skunkworksza/ken099-lunde/assets/126121348/93a87f10-9f14-4cd5-bc4b-0ca509f74c04)
+# ![Oracle_Professional_Badge_final_25x25](https://github.com/skunkworksza/ken099-lunde/assets/126121348/fdb530d1-7a6e-4464-9dfb-4bb1d2715ef8) Oracle Database SQL Certification (1Z0-071) Exam Preparation Guide
 
-Welcome to the **_enhanced and interactive_** guide for acing the Oracle Database SQL Certification (1Z0-071). Embark on this exciting quest filled with rich resources and tools guaranteed to power-up your exam prep game!
-
-## 🛠️ Key Resources for Exam Success 🛠️
-
-### 🐙 Oracle Certification Paths
-- **[Oracle Database SQL Certified Associate](https://education.oracle.com/products/trackp_457)**: Discover the path to becoming an Oracle Database SQL Certified Associate.
-
-![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/a4259d3e-fe20-4307-b85d-25c951ed11ba)
-
-### 👨‍🎓 MyLearn | Oracle University 
-- **[Oracle Database Training and Certification](https://mylearn.oracle.com/story/38560)**: Dive into the latest Oracle Database features from 12c R2 to 21c.`
+![Exam Prep - Oracle Database small](https://github.com/skunkworksza/ken099-lunde/assets/126121348/2e16f45e-8e08-4db1-9a6f-9774113f2b48)
 
 
-![Oracle-Explorer-Badge](https://github.com/skunkworksza/ken099-lunde/assets/126121348/e22a9d71-f90e-4a0c-a5ee-22a2dfbc44a3)
-- **[Earn the Oracle Database SQL Associate Credential](https://mylearn.oracle.com/ou/learning-path/earn-the-oracle-database-sql-certified-associate-credential/80636/)**: Follow this learning path to certification.
+Embark on your journey to mastering the Oracle Database SQL Certification (1Z0-071) with this comprehensive and interactive guide. With a blend of key resources, structured learning, and hands-on practice, you're on the path to success!
 
-### 📚 Official Oracle Documentation and Guides
-- **[Oracle Database Documentation](https://docs.oracle.com/en/database/)**: Your go-to for official Oracle SQL guides and manuals.
+---
 
-### 📖 Essential Reading
-- **[Oracle Database 12c SQL](https://www.amazon.com/Oracle-Database-12c-SQL-Jason/dp/0071799354)**: Arm yourself with knowledge from Jason Price's book, available on Amazon.
+## 📚 **Key Resources for Exam Success**
 
-### 💻 Online Courses and Tutorials
-- **[Oracle Database SQL Certified Associate (1Z0-071) Exam Prep Course](https://www.udemy.com/courses/search/?src=ukw&q=oracle-database-sql-certified-associate-1z0-071)**: A comprehensive Udemy course to bolster your exam preparation.
+### [![Oracle_Professional_Badge_final_50x50](https://github.com/skunkworksza/ken099-lunde/assets/126121348/38da7aa1-7ba9-4baf-8236-04133a293697)](https://education.oracle.com/oracle-database-sql-certified-associate/trackp_457)
+1. **Oracle Database SQL Certified Associate**
+   - Path to becoming an Oracle Database SQL Certified Associate
+   - Resources: [Oracle University](https://education.oracle.com/)
 
-### 🧠 Blogs and Forums
-- **[Oracle SQL Tutorial](https://www.oracletutorial.com/)**: Enhance your skills with practical tips and examples from this dedicated Oracle SQL blog.
+### [![oracle university](https://github.com/skunkworksza/ken099-lunde/assets/126121348/aad7362f-ef34-4df6-8e2c-fea287f5375c)](https://education.oracle.com/product/pexam_1Z0-071)
+2. **Oracle Database Training and Certification**
+   - Covers Oracle Database from 12c R2 to 21c
+   - Learning Path for SQL Associate Credential: [MyLearn Oracle University](https://education.oracle.com/product/pexam_1Z0-071)
 
-### 🛠️ Technical Setup
-- **[Installing Oracle Database 19c on Windows 10](https://www.oracle.com/database/technologies/)**: A guide to establishing your personal Oracle Database environment.
+### Official Oracle Documentation and Guides
+3. **Oracle Database Documentation**
+   - Official SQL guides and manuals: [Oracle Database Documentation](https://docs.oracle.com/en/database/)
 
-### 🆘 Support and Problem-Solving
-- **[Oracle Support Portal](https://support.oracle.com/knowledge/Oracle%20Database%20Products/742060_1.html)**: Reach out for support on any Oracle-related queries (requires Oracle support account).
+### [![aws71x50](https://github.com/skunkworksza/ken099-lunde/assets/126121348/19003335-9fa4-491e-9f80-ef6c984cb3a3)](https://a.co/d/iS7egJq) 
+4. **"Oracle Database 12c SQL" by Jason Price**
+   - Available on [Amazon](https://a.co/d/iS7egJq)
 
-### :octocat: GitHub Exam Prep Repo
-- **[GitHub Repo: Oracle_SQL_Developer_Guide](https://github.com/skunkworksza/ken099-lunde/Exam-Prep/1Z0-071-Oracle_SQL_Developer_Guide)**: A repository dedicated to covering topics for the Oracle 1Z0-071 SQL Exam.
+### Online Courses and Tutorials
+5. **1Z0-071 Exam Prep Course on Udemy**
+   - Comprehensive course for exam preparation: [Udemy Course](https://www.udemy.com/course/oracle-database-sql-certified-associate-1z0-071-exam-prep/)
+
+### Blogs and Forums
+6. **Oracle SQL Tutorial Blog**
+   - Practical tips and examples: [Oracle SQL Tutorial](https://www.oracle.com/sql-tutorial/)
+
+### Technical Setup
+7. **Installing Oracle Database 19c on Windows 10**
+   - Guide for personal Oracle Database setup: [Installation Guide](https://www.oracle.com/database/technologies/appdev/sqldeveloper-19c.html)
+
+### Support and Problem-Solving
+8. **Oracle Support Portal**
+      - Support for Oracle-related queries (Oracle support account required): [Oracle Support](https://support.oracle.com/)
+
+### GitHub Exam Prep Repo
+9. **Oracle_SQL_Developer_Guide**
+      - Topics for the Oracle 1Z0-071 SQL Exam: [GitHub Repo](https://github.com/)
+
+---
+
+## **Title: Mastering IT Certifications: An Exam Prep Guide Using Bloom's Taxonomy**
+
+![DALL·E 2024-01-29 01 17 06 - Illustration for Oracle Database SQL Certification (1Z0-071) Exam Preparation Guide  The scene should depict a dynamic learning environment filled wit](https://github.com/skunkworksza/ken099-lunde/assets/126121348/626b0077-7264-4a32-a94d-e3776466fdc1)
 
 
-![Oracle smaller](https://github.com/skunkworksza/ken099-lunde/assets/126121348/c800041b-aac9-43cf-92ac-1976a38e2083)
+### **Introduction:**
+For IT professionals, certification exams are milestones marking expertise and dedication. Employing Bloom's Taxonomy, traditionally a pedagogical framework, can offer a structured approach to mastering complex technical materials and concepts. Let's explore how this methodology can be adapted for IT certification exam preparation.
 
-## 📅 Study Plan Structure
+### **Remembering:**
+1. **Basic Recall and Recognition:**
+     - Begin by compiling notes and creating flashcards for essential technical terms, commands, and concepts. Revisit these regularly to build a strong memory foundation.
 
-1. **Oracle SQL Basics**: Start with official documentation and Jason Price's book.
-2. **Structured Online Learning**: Progress with the guided Udemy course.
-3. **Practice**: Test your skills with practice exams.
-4. **Hands-On Application**: Craft real SQL queries in your Oracle Database.
-5. **Community Engagement**: Participate in forums for knowledge sharing.
+### **Understanding:**
+2. **Comprehension and Interpretation:**
+     - Engage with study materials to explain concepts in your own words. Utilize diagrams to understand the relationships between different IT components and systems.
 
-## 🛡️ Final Exam Tips
+### **Applying:**
+3. **Practical Application of Skills:**
+  - Set up a lab environment to implement the concepts you've learned. Practice configuring systems and troubleshooting issues as they might appear on the exam.
 
-- Review all resources and ensure hands-on experience.
+### **Analyzing:**
+4. **Deconstruction and Analysis:**
+     - Examine case studies and dissect complex scenarios to understand how different IT elements interact. Practice breaking down problems into their constituent parts to find solutions.
+
+### **Evaluating:**
+5. **Judgment and Justification:**
+     - Critically review practice exam answers, especially those you got wrong. Understand the reasoning behind each solution and why one answer is more appropriate than another.
+
+### **Creating:**
+6. **Innovation and Design:**
+     - Challenge yourself to design a system or a process that integrates multiple IT concepts. This synthesis of knowledge showcases your readiness to apply what you've learned in real-world scenarios.
+
+### **Incorporating IT Training Programs:**
+7. **Skunkworks IT Training Alignment:**
+     - Explain how Skunkworks' IT training aligns with this methodology, using practical labs, scenario-based learning, and innovative problem-solving exercises to enhance learning outcomes.
+
+### **Conclusion:**
+8. **Career Advancement Through Certification:**
+     - Applying Bloom's Taxonomy to your exam preparation strategy can deepen your understanding and retention of complex IT subjects, leading to higher success rates on certification exams and advancing your IT career.
+
+---
+
+## 🛡️ **Final Exam Tips**
+- Review all resources thoroughly.
+- Ensure hands-on experience.
 - Get plenty of rest before the exam.
 
-### 🧭 Next Steps
+## 🧭 **Next Steps**
+- **Schedule Your Study:** Allocate dedicated study times.
+- **Interactive Learning:** Take notes and explain concepts to peers.
+- **Mock Exams:** Attend practice exams regularly.
 
-1. **Schedule Your Study**: Allocate dedicated study times for various resources.
-2. **Interactive Learning**: Take notes and explain concepts to peers.
-3. **Mock Exams**: Regularly attend practice exams to refine your strategies.
+---
 
-Good luck, brave learner! If you need a guide on this journey, send a message. 💌
+## 🌟 **Best Practices for Effective Preparation**
+1. **Consistent Study Routine:** Establish a daily routine dedicated to different aspects of the exam material.
+2. **Conceptual Understanding vs Memorization:** Focus on understanding concepts rather than rote memorization.
+3. **Practical Application:** Regularly practice SQL queries to solidify your understanding.
+4. **Mock Exams and Quizzes:** Regularly assess your knowledge with practice exams and quizzes.
+5. **Healthy Study Habits:** Maintain a balanced approach with adequate breaks and self-care.
+6. **Engage with the Community:** Participate in forums and study groups for collaborative learning and support.
+
+```
+Good luck, brave learner! 🌠 For any further assistance, feel free to reach out. 💌
+```
+
+### 📌 Next Steps for Extended Guidance
+1. Detailed Study Schedule
+2. Resource Analysis
+3. Practice Exam Strategies
+
+---
+
+## **URL References List:**
+
+1. **Oracle SQL Documentation**: For comprehensive information on Oracle SQL syntax, functions, and more, start with the official documentation. [Oracle SQL Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/index.html).
+
+2. **Oracle Learning Explorer**: Engage with Oracle Learning Explorer for interactive courses, quizzes, and labs to enhance your Oracle SQL skills. [Oracle Learning Explorer](https://learn.oracle.com/ols/learning-path/become-an-oracle-database-sql-certified-associate/40805/44178).
+
+3. **Udemy Oracle SQL Course**: Advance your understanding with a structured Udemy course designed specifically for Oracle SQL learners. [Udemy Oracle SQL Course](https://www.udemy.com/course/oracle-sql).
+
+4. **Oracle Database Explorer**: Get hands-on experience with Oracle SQL by practicing with the Oracle Database Explorer. [Oracle Database Explorer](https://apex.oracle.com/en/learn/tutorials).
+
+5. **Oracle Technology Network**: Connect with experts and peers in the Oracle community at the Oracle Technology Network. [Oracle Community](https://community.oracle.com).
+
+6. **Oracle Base Database Services Professional Workshop** [mylearn.oracle.com](https://mylearn.oracle.com/ou/course/oracle-base-database-services-professional-workshop/122179/168384)
